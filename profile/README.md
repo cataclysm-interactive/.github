@@ -1,6 +1,6 @@
 # We're Cataclysm Interactive
-A software company currently led by [Untold-Titan](https://github.com/untold-titan)
-We develop software for everyone. Using everything. 
+A software company currently led by [Untold-Titan](https://github.com/untold-titan).
+We develop software for everyone. Using everything.
 We adapt quick to new enviroments.
 We are Cataclysm Interactive.
 
