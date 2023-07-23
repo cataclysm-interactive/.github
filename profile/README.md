@@ -1,5 +1,5 @@
 # We're Cataclysm Interactive
-A software company currently led by [Untold-Titan](https://github.com/untold-titan).
+A software company led by [Untold-Titan](https://github.com/untold-titan).
 We develop software for everyone. Using everything.
 We adapt quick to new enviroments.
 We are Cataclysm Interactive.
@@ -9,7 +9,3 @@ We are Cataclysm Interactive.
 # What kind of projects have you worked on?
 
 We made [Baller on Google Play](https://play.google.com/store/apps/details?id=com.PentagonGames.Baller)
-
-# What are you currently working on? 
-
-We are currently making a new mobile game, to surpass the legacy of Baller.
